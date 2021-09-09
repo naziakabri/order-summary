@@ -129,15 +129,18 @@ font-size: 11px;
     color: black;
 }
 @media only screen and (max-width:500px){
+    body{
+        background-image:url("pattern-background-mobile.svg");
+    }
     .girl{
-        top: 40px;
+        top: 90px;
      
     }
     .info{
-        top: 36px;
+        top: 86px;
     }
     .My-name{
-        top: 70px;
+        top: 120px;
     }
 
 
